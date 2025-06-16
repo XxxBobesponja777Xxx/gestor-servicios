@@ -1,0 +1,13 @@
+#tokens
+TELEGRAM_TOKEN="8169615502:AAH8ODWLAdUJRcM3MTQ7UIUL9RFnLsK26hU"
+CHAT_ID=1667341463
+
+#rutas
+LOG_DIR="/home/william/gestor-servicios/logs"
+BACKUP_DIR="/home/william/gestor-servicios/backups"
+REMOTE_HOSTS_FILE="$(pwd)/hosts.txt"
+REMOTE_SCRIPT="$(pwd)/scripts/tarea_remota.sh"
+
+#  monitoreo
+CPU_THRESHOLD=70
+DISK_THRESHOLD=70
