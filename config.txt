@@ -1,6 +1,6 @@
 #tokens
-TELEGRAM_TOKEN="8169615502:AAH8ODWLAdUJRcM3MTQ7UIUL9RFnLsK26hU"
-CHAT_ID=1667341463
+TELEGRAM_TOKEN=""
+CHAT_ID=
 
 #rutas
 LOG_DIR="/home/william/gestor-servicios/logs"
